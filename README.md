@@ -4,7 +4,7 @@ Data analyst and music engineer based in London, UK
 
 I switched into tech after more than a decade in music engineering and 
 studio management. I
-rediscovered this passion and am now I am living the dream creating functions and analysing data sets i find on kaggle.
+rediscovered my passion and am now  living the dream creating functions and analysing data sets I find on kaggle.
 
 
 
