@@ -1,4 +1,13 @@
-###                  Hi, Im Anthony 🔭
+###    Hi, Im Anthony 🔭
+
+Data analyst and music engineer based in London, UK
+
+I switched into tech after more than a decade in music engineering and 
+studio management. I
+rediscovered this passion and am now I am living the dream creating functions and analysing data sets i find on kaggle.
+
+
+
 
 <!--
 **Aolabode321/Aolabode321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
